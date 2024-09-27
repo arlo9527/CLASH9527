@@ -1,0 +1,9 @@
+# 内容：Emby节点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,stream4.misakaf.org
+DOMAIN-SUFFIX,stream_pilipili.misakaf.org
+DOMAIN-SUFFIX,aca.best
